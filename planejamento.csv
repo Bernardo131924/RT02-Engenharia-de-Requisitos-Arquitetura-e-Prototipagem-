@@ -1,0 +1,21 @@
+﻿ID,Tarefa,Prioridade,Status
+T01,Revisar requisitos,Alta,Concluído
+T02,Definir arquitetura,Alta,Em desenvolvimento
+T03,Modelar banco de dados,Alta,A fazer
+T04,Criar protótipo UI/UX,Alta,Em desenvolvimento
+T05,Implementar autenticação,Alta,A fazer
+T06,Desenvolver backend/API,Alta,A fazer
+T07,Desenvolver frontend,Alta,A fazer
+T08,Implementar cadastro de câmeras,Alta,A fazer
+T09,Implementar monitoramento,Alta,A fazer
+T10,Integrar serviço de IA,Alta,A fazer
+T11,Implementar detecção de objetos,Alta,A fazer
+T12,Registrar eventos,Média,A fazer
+T13,Criar histórico,Média,A fazer
+T14,Criar perfil/configurações,Média,A fazer
+T15,Implementar testes,Alta,A fazer
+T16,Configurar linter e formatter,Média,A fazer
+T17,Revisar código,Alta,A fazer
+T18,Finalizar documentação,Alta,A fazer
+T19,Executar testes finais,Alta,A fazer
+T20,Preparar entrega,Alta,A fazer
