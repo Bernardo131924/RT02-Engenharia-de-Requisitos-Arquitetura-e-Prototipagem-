@@ -1,0 +1,54 @@
+# Sistema de Gerenciamento de Câmeras com Inteligência Artificial
+
+Sistema web para gerenciamento e monitoramento de câmeras com detecção de movimento e identificação de objetos por Inteligência Artificial.
+
+## Objetivos
+- Gerenciar câmeras de monitoramento.
+- Monitorar câmeras conectadas.
+- Detectar movimentos.
+- Identificar objetos utilizando IA.
+- Registrar eventos.
+- Consultar histórico e resultados.
+- Disponibilizar interface web responsiva.
+
+## Estrutura
+```text
+sistema-cameras-ia/
+├── frontend/
+├── backend/
+├── ai/
+├── database/
+├── tests/
+├── docs/
+├── .github/
+├── .editorconfig
+├── .gitignore
+├── .prettierrc.json
+├── pyproject.toml
+├── requirements.txt
+└── README.md
+```
+
+## Configuração
+```bash
+git clone URL_DO_REPOSITORIO
+cd sistema-cameras-ia
+python -m venv .venv
+```
+
+Ative o ambiente virtual e instale as dependências:
+```bash
+pip install -r requirements.txt
+```
+
+Copie `.env.example` para `.env` e preencha as variáveis necessárias.
+
+> Nunca publique o arquivo `.env` no GitHub.
+
+## Qualidade
+O projeto adota Clean Code, princípios SOLID, linting, formatação e testes automatizados.
+
+## Documentação
+A documentação do RT02 está em `docs/RT02.md`.
+## Equipe
+- Bernardo Gonçalves de Oliveira
